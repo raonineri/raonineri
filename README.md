@@ -2,7 +2,7 @@
 
 ### Fico feliz em ver você por aqui.
 
-Atualmente sou Desenvolvedor C#, .Net Core e estudante de Análise e Desenvolvimento de Sistemas no Senac. Também sou  Cientista Social e Antropólogo formado pela UFPE. Acredito que  diferentes áreas do conhecimento, quando combinadas e conectadas são  ainda mais poderosas. Sempre fui um entusiasta da tecnologia e como  forma de me reconectar a esta paixão, resolvi estudar programação e realizar uma transição de carreira.
+Atualmente sou Desenvolvedor C#, .Net Core e formado de Análise e Desenvolvimento de Sistemas no Senac. Também sou  Cientista Social e Antropólogo formado pela UFPE. Acredito que  diferentes áreas do conhecimento, quando combinadas e conectadas são  ainda mais poderosas. Sempre fui um entusiasta da tecnologia e como  forma de me reconectar a esta paixão, resolvi estudar programação e realizar uma transição de carreira.
 
 Meus principais interesses na área de tecnologia são Engenharia de Dados e de Software, mas sigo nos estudos e aberto para conhecer novas linguagens, ferramentas e áreas da tecnologia.
 
